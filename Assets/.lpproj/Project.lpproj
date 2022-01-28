@@ -1,0 +1,10 @@
+<Project
+  ExecutableFilename = ""
+  EngineType = "Unity"
+  DebugParameters = ""
+  SkipSynchronizingLuaDebuggeeDll = "false"
+  SkipSynchronizingCSharpCode = "false">
+  <SourceDirectories>
+    <SourceDirectory Path = "C:/A/Office/Code/Unity/Proj/SkynetClient/Lua"/>
+  </SourceDirectories>
+</Project>

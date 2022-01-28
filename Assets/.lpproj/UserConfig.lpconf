@@ -1,0 +1,78 @@
+<GlobalConfig CodeFontSize = "22"/>
+<BreakpointList/>
+<WatchList/>
+<ProjectUI>
+  <TreeState BaseX = "0" BaseY = "-240" AlternativeItem = "LuaFolders#Lua#Game#Common#PrefabPool.lua">
+    <SelectedList>
+      <Selected Path = "LuaFolders#Lua#Game#Common#Message.lua"/>
+    </SelectedList>
+    <ExpandedList>
+      <Expanded Path = "LuaFolders"/>
+      <Expanded Path = "LuaFolders#Lua"/>
+      <Expanded Path = "LuaFolders#Lua#Common"/>
+      <Expanded Path = "LuaFolders#Lua#Game"/>
+      <Expanded Path = "LuaFolders#Lua#Game#Common"/>
+      <Expanded Path = "LuaFolders#Lua#Game#Common#Action"/>
+      <Expanded Path = "LuaFolders#Lua#Game#Example"/>
+      <Expanded Path = "LuaFolders#Lua#Game#Login"/>
+      <Expanded Path = "LuaFolders#Lua#Game#Message"/>
+      <Expanded Path = "LuaFolders#Lua#Proto"/>
+      <Expanded Path = "LuaFolders#Lua#Tools"/>
+    </ExpandedList>
+  </TreeState>
+</ProjectUI>
+<FindAnReplaceUI
+  Pattern = "LoginModel"
+  MatchCase = "false"
+  MatchWholeWord = "false"
+  UseRegEx = "false"
+  Target = ""
+  Replace = ""/>
+<MainWindow
+  X = "177"
+  Y = "228"
+  Width = "1280"
+  Height = "720"
+  Maximized = "true"
+  LastCodeFilename = "C:/A/Office/Code/Unity/Proj/SkynetClient/Lua/LuaMain.lua">
+  <DockingControl>
+    <DockingNode DockingDirection = "Horizontal">
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "261" Height = "747" DocumentStyle = "false">
+          <DockingCard
+            Text = "Project"
+            Tag = ""
+            ActivePage = "true"
+            ActivateTime = "0"/>
+          <DockingCard
+            Text = "Outline"
+            Tag = ""
+            ActivePage = "false"
+            ActivateTime = "0"/>
+        </DockingBlock>
+      </DockingNode>
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "1194" Height = "747" DocumentStyle = "true">
+          <DockingCard
+            Text = "LuaMain.lua"
+            Tag = "C:/A/Office/Code/Unity/Proj/SkynetClient/Lua/LuaMain.lua"
+            ActivePage = "true"
+            ActivateTime = "686426711"
+            CaretLineIndex = "10"
+            CaretCodeCharIndex = "0"
+            BaseX = "0"
+            BaseY = "-1122"/>
+          <DockingCard
+            Text = "UIManager.lua"
+            Tag = "C:/A/Office/Code/Unity/Proj/SkynetClient/Lua/Game/Common/UIManager.lua"
+            ActivePage = "false"
+            ActivateTime = "686398682"
+            CaretLineIndex = "225"
+            CaretCodeCharIndex = "4"
+            BaseX = "0"
+            BaseY = "-3630"/>
+        </DockingBlock>
+      </DockingNode>
+    </DockingNode>
+  </DockingControl>
+</MainWindow>
